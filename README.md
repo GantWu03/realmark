@@ -13,13 +13,6 @@ realmark 是一个 AI 驱动的产品测评与推荐系统。
 - MCP（Model Context Protocol）用于外部能力接入
 - 千问 Qwen3-Max 作为核心推理模型
 
-## 当前状态
-- [x] MCP Server（小红书）已接入
-- [ ] MCP Client（Python）开发中
-- [ ] Planner Agent
-- [ ] Crawling Agent
-- [ ] Analysis Agent
-- [ ] Web / CLI 交互界面
-
 ## 运行环境
 - Python >= 3.10（推荐 3.11）
+
