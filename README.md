@@ -17,5 +17,6 @@ realmark 是一个 AI 驱动的产品测评与推荐系统。
 - Python >= 3.10（推荐 3.11）
 
 ## 使用注意事项
-- 使用时需自行配置相应社媒平台的评论爬取MCP，此处提供小红书评论爬取MCP，需将以下文件 https://github.com/GantWu03/xiaohongshu.git 克隆至mcp_sever
+- 使用时需自行配置相应社媒平台的评论爬取MCP，此处提供小红书评论爬取MCP，需按以下项目配置环境 https://github.com/GantWu03/xiaohongshu.git 并克隆至mcp_sever
+
 
